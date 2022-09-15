@@ -175,7 +175,7 @@ Create separate environments to keep your programs isolated from each other.
       The active environment is the one with an asterisk (*).
 
 #. Change your current environment back to the default (base):
-   ``conda activate``
+   ``conda deactivate``
 
    .. note::
       For versions prior to conda 4.6, use:
